@@ -1,13 +1,60 @@
-### Hi there 👋, I'm Khang Vu
-#### Welcome to My GitHub Profile!
-- I am currently enrolled in the Computer Programming and Analysis program at Fanshawe College, where I have developed a strong foundation in mathematics, programming, databases, networking, and systems analysis.
+<h1 align="left">Hey 👋 I'm Khang Vu</h1>
 
-- As a mathematically gifted student at Le Hong Phong High School for the Gifted, one of Vietnam's most prestigious schools for gifted students, I have confidence in my mathematical knowledge, logical thinking, and problem-solving abilities.
+###
 
-Skills: C++/ C/ Java/ Python
+<p align="left">Welcome to My GitHub Profile!</p>
 
-### Connect with Me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khangvum)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manhkhangvu/)  
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">
+  📚 I am currently enrolled in the Computer Programming and Analysis program at Fanshawe College, where I have developed a strong foundation in mathematics, programming, databases, networking, and systems analysis.<br>
+  ✨ As a mathematically gifted student at Le Hong Phong High School for the Gifted, one of Vietnam's most prestigious schools for gifted students, I have confidence in my mathematical knowledge, logical thinking, and problem-solving abilities.<br>
+  <!--
+  🎯 Goals: ...<br>
+  🎲 Fun fact: ...
+  -->
+</p>
+
+###
+
+<h2 align="left">Skills</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h2 align="left">Connect with Me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/manhkhangvu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="manhkhang0305@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 
 
