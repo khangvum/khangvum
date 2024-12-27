@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-  📚 I am currently enrolled in the Computer Programming and Analysis program at Fanshawe College, where I have developed a strong foundation in mathematics, programming, databases, networking, and systems analysis.<br>
+  📚 I am currently enrolled in the Computer Programming and Analysis program, where I have developed a strong foundation in mathematics, programming, databases, networking, and systems analysis.<br>
   ✨ As a mathematically gifted student at Le Hong Phong High School for the Gifted, one of Vietnam's most prestigious schools for gifted students, I have confidence in my mathematical knowledge, logical thinking, and problem-solving abilities.<br>
   <!--
   🎯 Goals: ...<br>
