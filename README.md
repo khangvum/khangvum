@@ -10,28 +10,32 @@ Welcome to My GitHub Profile!
 
 ## Skills
 
-<img src="images/skills/cplusplus.png" height="40" alt="cplusplus logo" style="margin-right:5px"/>
-<img src="images/skills/c.png" height="40" alt="c logo" style="margin-right:5px"/>
-<img src="images/skills/csharp.png" height="40" alt="csharp logo" style="margin-right:5px"/>
-<img src="images/skills/java.png" height="40" alt="java logo" style="margin-right:5px"/>
-<img src="images/skills/python.png" height="40" alt="python logo" style="margin-right:5px"/>
-<img src="images/skills/ansible.png" height="40" alt="ansible logo" style="margin-right:5px"/>
-<img src="images/skills/nix.png" height="40" alt="nix logo" style="margin-right:5px"/>
-<img src="images/skills/docker.png" height="40" alt="docker logo" style="margin-right:5px"/>
-<img src="images/skills/javascript.png" height="40" alt="javascript logo" style="margin-right:5px"/>
-<img src="images/skills/microsoftsqlserver.png" height="40" alt="microsoftsqlserver logo" style="margin-right:5px"/>
-<img src="images/skills/html5.png" height="40" alt="html5 logo" style="margin-right:5px"/>
-<img src="images/skills/css3.png" height="40" alt="css3 logo" style="margin-right:5px"/>
-<img src="images/skills/bash.png" height="40" alt="bash logo" style="margin-right:5px"/>
+<div>
+  <img src="images/skills/cplusplus.png" height="40" alt="cplusplus logo" style="margin-right:5px"/>
+  <img src="images/skills/c.png" height="40" alt="c logo" style="margin-right:5px"/>
+  <img src="images/skills/csharp.png" height="40" alt="csharp logo" style="margin-right:5px"/>
+  <img src="images/skills/java.png" height="40" alt="java logo" style="margin-right:5px"/>
+  <img src="images/skills/python.png" height="40" alt="python logo" style="margin-right:5px"/>
+  <img src="images/skills/ansible.png" height="40" alt="ansible logo" style="margin-right:5px"/>
+  <img src="images/skills/nix.png" height="40" alt="nix logo" style="margin-right:5px"/>
+  <img src="images/skills/docker.png" height="40" alt="docker logo" style="margin-right:5px"/>
+  <img src="images/skills/javascript.png" height="40" alt="javascript logo" style="margin-right:5px"/>
+  <img src="images/skills/microsoftsqlserver.png" height="40" alt="microsoftsqlserver logo" style="margin-right:5px"/>
+  <img src="images/skills/html5.png" height="40" alt="html5 logo" style="margin-right:5px"/>
+  <img src="images/skills/css3.png" height="40" alt="css3 logo" style="margin-right:5px"/>
+  <img src="images/skills/bash.png" height="40" alt="bash logo" style="margin-right:5px"/>
+</div>
 
 ## Connect with Me
 
-<a href="https://www.linkedin.com/in/khangvum/" target="_blank">
-  <img src="images/connect-with-me/linkedin.png" height="40" alt="linkedin logo" style="margin-right:5px"/>
-</a>
-<a href="mailto:manhkhang0305@gmail.com" target="_blank">
-  <img src="images/connect-with-me/gmail.png" height="40" alt="gmail logo" style="margin-right:5px"/>
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/khangvum/" target="_blank" style="margin-right:5px">
+    <img src="images/connect-with-me/linkedin.png" height="40" alt="linkedin logo"/>
+  </a>
+  <a href="mailto:manhkhang0305@gmail.com" target="_blank" style="margin-right:5px">
+    <img src="images/connect-with-me/gmail.png" height="40" alt="gmail logo"/>
+  </a>
+</div>
 
 <!--
 **khangvum/khangvum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
