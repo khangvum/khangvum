@@ -1,68 +1,37 @@
-<h1 align="left">Hey 👋 I'm Manh Khang Vu</h1>
+# Hey 👋 I'm Manh Khang Vu
 
-###
+Welcome to My GitHub Profile!
 
-<p align="left">Welcome to My GitHub Profile!</p>
+## About me
 
-###
+📚 I am currently enrolled in the Computer Programming and Analysis program at Fanshawe College, where I have developed a strong foundation in mathematics, programming, databases, networking, and systems analysis.
 
-<h2 align="left">About me</h2>
+✨ As a mathematically gifted student at Le Hong Phong High School for the Gifted, one of Vietnam's most prestigious schools for gifted students, I have confidence in my mathematical knowledge, logical thinking, and problem-solving abilities.
 
-###
+## Skills
 
-<p align="left">📚 I am currently enrolled in the Computer Programming and Analysis program at Fanshawe College, where I have developed a strong foundation in mathematics, programming, databases, networking, and systems analysis.<br>✨ As a mathematically gifted student at Le Hong Phong High School for the Gifted, one of Vietnam's most prestigious schools for gifted students, I have confidence in my mathematical knowledge, logical thinking, and problem-solving abilities.</p>
+<img src="images/skills/cplusplus.png" height="40" alt="cplusplus logo" style="margin-right:5px"/>
+<img src="images/skills/c.png" height="40" alt="c logo" style="margin-right:5px"/>
+<img src="images/skills/csharp.png" height="40" alt="csharp logo" style="margin-right:5px"/>
+<img src="images/skills/java.png" height="40" alt="java logo" style="margin-right:5px"/>
+<img src="images/skills/python.png" height="40" alt="python logo" style="margin-right:5px"/>
+<img src="images/skills/ansible.png" height="40" alt="ansible logo" style="margin-right:5px"/>
+<img src="images/skills/nix.png" height="40" alt="nix logo" style="margin-right:5px"/>
+<img src="images/skills/docker.png" height="40" alt="docker logo" style="margin-right:5px"/>
+<img src="images/skills/javascript.png" height="40" alt="javascript logo" style="margin-right:5px"/>
+<img src="images/skills/microsoftsqlserver.png" height="40" alt="microsoftsqlserver logo" style="margin-right:5px"/>
+<img src="images/skills/html5.png" height="40" alt="html5 logo" style="margin-right:5px"/>
+<img src="images/skills/css3.png" height="40" alt="css3 logo" style="margin-right:5px"/>
+<img src="images/skills/bash.png" height="40" alt="bash logo" style="margin-right:5px"/>
 
-###
+## Connect with Me
 
-<h2 align="left">Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-</div>
-
-###
-
-<h2 align="left">Connect with Me</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/khangvum/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:manhkhang0305@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
+<a href="https://www.linkedin.com/in/khangvum/" target="_blank">
+  <img src="images/connect-with-me/linkedin.png" height="40" alt="linkedin logo" style="margin-right:5px"/>
+</a>
+<a href="mailto:manhkhang0305@gmail.com" target="_blank">
+  <img src="images/connect-with-me/gmail.png" height="40" alt="gmail logo" style="margin-right:5px"/>
+</a>
 
 <!--
 **khangvum/khangvum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
