@@ -8,6 +8,8 @@ Welcome to My GitHub Profile!
 
 ✨ As a mathematically gifted student at Le Hong Phong High School for the Gifted, one of Vietnam's most prestigious schools for gifted students, I have confidence in my mathematical knowledge, logical thinking, and problem-solving abilities.
 
+💼 From January to April 2025, I worked as an Information Systems IoT Co-op at Eramosa - A CIMA+ Company, where I applied OSI model knowledge to network and interconnect applications across virtualization platforms like Hyper-V and VMware vSphere, worked with various operating systems, including Windows, Linux, and VMware, and utilized Infrastructure as Code (IaC) tools such as Ansible and Terraform to automate and manage system configurations.
+
 ## Skills
 
 <div>
