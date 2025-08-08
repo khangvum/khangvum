@@ -44,6 +44,7 @@ Welcome to My GitHub Profile!
   <a href="https://www.linkedin.com/in/khangvum/" target="_blank">
     <img src="images/connect-with-me/linkedin.png" height="40" alt="linkedin logo"/>
   </a>
+  <img width="12"/>
   <a href="mailto:manhkhang0305@gmail.com" target="_blank">
     <img src="images/connect-with-me/gmail.png" height="40" alt="gmail logo"/>
   </a>
