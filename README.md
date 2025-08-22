@@ -87,9 +87,9 @@ Welcome to My GitHub Profile!
 ## Statistics
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=khangvum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=khangvum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&cache_bust=1" height="150" alt="stats graph"  />
   <img width="12"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khangvum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khangvum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&cache_bust=1" height="150" alt="languages graph"  />
 </div>
 <!--
 **khangvum/khangvum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
