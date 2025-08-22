@@ -78,6 +78,10 @@ Welcome to My GitHub Profile!
   <a href="mailto:manhkhang0305@gmail.com" target="_blank">
     <img src="images/connect-with-me/gmail.png" height="40" alt="gmail logo"/>
   </a>
+  <img width="12"/>
+  <a href="https://leetcode.com/u/khangvum/" target="_blank">
+    <img src="images/connect-with-me/leetcode.png" height="40" alt="gmail logo"/>
+  </a>
 </div>
 
 ## Statistics
