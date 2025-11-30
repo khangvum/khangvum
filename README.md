@@ -16,27 +16,27 @@ Welcome to My GitHub Profile!
 
 <div>
   <img src="images/skills/cplusplus.png" height="40" alt="cplusplus logo"/>
-  <img width="14"/>
+  <img width="12"/>
   <img src="images/skills/c.png" height="40" alt="c logo"/>
-  <img width="14"/>
+  <img width="12"/>
   <img src="images/skills/csharp.png" height="40" alt="csharp logo"/>
-  <img width="14"/>
+  <img width="12"/>
   <img src="images/skills/java.png" height="40" alt="java logo"/>
-  <img width="14"/>
+  <img width="12"/>
   <img src="images/skills/python.png" height="40" alt="python logo"/>
-  <img width="14"/>
+  <img width="12"/>
   <img src="images/skills/dotnetcore.png" height="40" alt="dotnetcore logo"/>
-  <img width="14"/>
+  <img width="12"/>
   <img src="images/skills/vuejs.png" height="40" alt="vuejs logo"/>
-  <img width="14"/>  
+  <img width="12"/>  
   <img src="images/skills/jquery.png" height="40" alt="jquery logo"/>
-  <img width="14"/> 
+  <img width="12"/> 
   <img src="images/skills/bootstrap.png" height="40" alt="bootstrap logo"/>
-  <img width="14"/>
+  <img width="12"/>
   <img src="images/skills/javascript.png" height="40" alt="javascript logo"/>
-  <img width="14"/>
+  <img width="12"/>
   <img src="images/skills/html5.png" height="40" alt="html5 logo"/>
-  <img width="14"/>
+  <img width="12"/>
   <img src="images/skills/css3.png" height="40" alt="css3 logo"/>
 </div>
 
