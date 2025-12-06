@@ -8,7 +8,7 @@ Welcome to My GitHub Profile!
 
 ✨ As a mathematically gifted student at Le Hong Phong High School for the Gifted, one of Vietnam's most prestigious schools for gifted students, I have confidence in my mathematical knowledge, logical thinking, and problem-solving abilities.
 
-💼 I have worked across both development and IT environments, with experience supporting enterprise devices and user accounts using tools like Azure AD (now Entra ID), Intune, Exchange, and ADUC; automating Windows deployments with unattended files and Autopilot; and providing comprehensive Tier 1 support through through the Ivanti ticketing system. Previously, as an Information Systems IoT, I worked with virtualization platforms (_e.g.,_ Hyper-V, VMware vSphere), standardized WSL environments with integrated security, and implement Infrastructure as Code (IaC) tools such as Ansible and Terraform to automate  and streamline system configuration management.
+💼 I have worked across both development and IT environments, with experience supporting enterprise devices and user accounts using tools like Azure AD (now Entra ID), Intune, Exchange, and ADUC; automating Windows deployments with unattended files and Autopilot; and providing comprehensive Tier 1 support through the Ivanti ticketing system. Previously, as an Information Systems IoT, I worked with virtualization platforms (_e.g.,_ Hyper-V, VMware vSphere), standardized WSL environments with integrated security, and implemented Infrastructure as Code (IaC) tools such as Ansible and Terraform to automate  and streamline system configuration management.
 
 ## Skills
 
