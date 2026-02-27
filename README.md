@@ -27,6 +27,8 @@ Welcome to My GitHub Profile!
   <img width="12"/>
   <img src="images/skills/dotnetcore.png" height="40" alt="dotnetcore logo"/>
   <img width="12"/>
+  <img src="images/skills/react.png" height="40" alt="react logo"/>
+  <img width="12"/>
   <img src="images/skills/vuejs.png" height="40" alt="vuejs logo"/>
   <img width="12"/>  
   <img src="images/skills/jquery.png" height="40" alt="jquery logo"/>
