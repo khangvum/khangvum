@@ -48,6 +48,8 @@ Welcome to My GitHub Profile!
   <img src="images/skills/sqlite.png" height="40" alt="sqlite logo"/>
   <img width="12"/>
   <img src="images/skills/mysql.png" height="40" alt="mysql logo"/>
+  <img width="12"/>
+  <img src="images/skills/mongodb.png" height="40" alt="mongodb logo"/>
 </div>
 
 ### Platforms & Tools
