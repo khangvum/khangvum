@@ -61,6 +61,8 @@ Welcome to My GitHub Profile!
   <img width="12"/>
   <img src="images/skills/ansible.png" height="40" alt="ansible logo"/>
   <img width="12"/>
+  <img src="images/skills/terraform.png" height="40" alt="terraform logo"/>
+  <img width="12"/>
   <img src="images/skills/azure.png" height="40" alt="azure logo"/>
   <img width="12"/>
   <img src="images/skills/bash.png" height="40" alt="bash logo"/>
