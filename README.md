@@ -68,6 +68,8 @@ Welcome to My GitHub Profile!
   <img src="images/skills/bash.png" height="40" alt="bash logo"/>
   <img width="12"/>
   <img src="images/skills/nix.png" height="40" alt="nix logo"/>
+  <img width="12"/>
+  <img src="images/skills/selenium.png" height="40" alt="selenium logo"/>
 </div>
 
 ## Connect with Me
