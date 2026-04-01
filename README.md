@@ -56,7 +56,7 @@ Welcome to My GitHub Profile!
   <img src="images/skills/mongodb.png" height="40" alt="mongodb logo"/>
 </div>
 
-### Platforms & Tools
+### Infrastructure
 
 <div>
   <img src="images/skills/docker.png" height="40" alt="docker logo"/>
@@ -65,6 +65,11 @@ Welcome to My GitHub Profile!
   <img width="12"/>
   <img src="images/skills/terraform.png" height="40" alt="terraform logo"/>
   <img width="12"/>
+</div>
+
+### DevOps Tools
+
+<div>
   <img src="images/skills/azure.png" height="40" alt="azure logo"/>
   <img width="12"/>
   <img src="images/skills/bash.png" height="40" alt="bash logo"/>
