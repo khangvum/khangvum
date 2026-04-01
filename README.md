@@ -88,6 +88,8 @@ Welcome to My GitHub Profile!
 ### DevOps Tools
 
 <div>
+  <img src="images/skills/git.png" height="40" alt="git logo"/>
+  <img width="12"/>
   <img src="images/skills/azure.png" height="40" alt="azure logo"/>
   <img width="12"/>
   <img src="images/skills/bash.png" height="40" alt="bash logo"/>
