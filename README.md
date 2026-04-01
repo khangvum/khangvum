@@ -40,6 +40,8 @@ Welcome to My GitHub Profile!
   <img src="images/skills/html5.png" height="40" alt="html5 logo"/>
   <img width="12"/>
   <img src="images/skills/css3.png" height="40" alt="css3 logo"/>
+  <img width="12"/>
+  <img src="images/skills/swift.png" height="40" alt="swift logo"/>
 </div>
 
 ### Databases
