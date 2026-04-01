@@ -96,6 +96,8 @@ Welcome to My GitHub Profile!
   <img width="12"/>
   <img src="images/skills/nix.png" height="40" alt="nix logo"/>
   <img width="12"/>
+  <img src="images/skills/npm.png" height="40" alt="npm logo"/>
+  <img width="12"/>
   <img src="images/skills/selenium.png" height="40" alt="selenium logo"/>
 </div>
 
