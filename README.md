@@ -8,7 +8,23 @@ Welcome to My GitHub Profile!
 
 ✨ As a mathematically gifted student at Le Hong Phong High School for the Gifted, one of Vietnam's most prestigious schools for gifted students, I have confidence in my mathematical knowledge, logical thinking, and problem-solving abilities.
 
-💼 I have worked across both development and IT environments, with experience supporting enterprise devices and user accounts using tools like Azure AD (now Entra ID), Intune, Exchange, and ADUC; automating Windows deployments with unattended files and Autopilot; and providing comprehensive Tier 1 support through the Ivanti ticketing system. Previously, as an Information Systems IoT, I worked with virtualization platforms (_e.g.,_ Hyper-V, VMware vSphere), standardized WSL environments with integrated security, and implemented Infrastructure as Code (IaC) tools such as Ansible and Terraform to automate  and streamline system configuration management.
+💼 Professional Experience:
+
+**Automation Test Developer | CARFAX Canada**
+
+- Engineered automated test cases with Selenium WebDriver and NUnit/MSTest.
+
+**NSC Support Analyst - Tier 1 | EMCO Corporation**
+
+- Managed enterprise infrastructure with Entra ID (Azure AD), Intune, and Exchange.
+- Automated Windows deployments using Autopilot and answer files (_e.g.,_ [khangvum/answer-files](https://github.com/khangvum/answer-files)).
+- Provided comprehensive Tier 1 support through the Ivanti ticketing system.
+
+**Information Systems IoT | Eramosa - A CIMA+ Company**
+
+- Engineered a standardized, security-hardened WSL environment (_e.g.,_ [khangvum/homelab-ansible-config](https://github.com/khangvum/homelab-ansible-config)).
+- Implemented Infrastructure as Code (IaC) using Ansible and Terraform (_e.g.,_ [khangvum/nixos-wsl](https://github.com/khangvum/nixos-wsl)).
+- Orchestrated multi-tenant virtual infrastructure across VMware ESXi and Hyper-V.
 
 ## Skills
 
