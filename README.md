@@ -72,6 +72,8 @@ Welcome to My GitHub Profile!
   <img src="images/skills/mysql.png" height="40" alt="mysql logo"/>
   <img width="12"/>
   <img src="images/skills/mongodb.png" height="40" alt="mongodb logo"/>
+  <img width="12"/>
+  <img src="images/skills/firebase.png" height="40" alt="firebase logo"/>
 </div>
 
 ### Infrastructure
