@@ -103,6 +103,8 @@ Welcome to My GitHub Profile!
   <img src="images/skills/npm.png" height="40" alt="npm logo"/>
   <img width="12"/>
   <img src="images/skills/selenium.png" height="40" alt="selenium logo"/>
+  <img width="12"/>
+  <img src="images/skills/nuget.png" height="40" alt="nuget logo"/>
 </div>
 
 ## Connect with Me
