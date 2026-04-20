@@ -89,6 +89,8 @@ Welcome to My GitHub Profile!
   <img width="12"/>
   <img src="images/skills/grafana.png" height="40" alt="grafana logo"/>
   <img width="12"/>
+  <img src="images/skills/nginx.png" height="40" alt="nginx logo"/>
+  <img width="12"/>
 </div>
 
 ### DevOps Tools
