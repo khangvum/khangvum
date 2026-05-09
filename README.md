@@ -113,6 +113,8 @@ Welcome to My GitHub Profile!
   <img src="images/skills/nuget.png" height="40" alt="nuget logo"/>
   <img width="12"/>
   <img src="images/skills/nodejs.png" height="40" alt="nodejs logo"/>
+  <img width="12"/>
+  <img src="images/skills/jupyter.png" height="40" alt="jupyter logo"/>
 </div>
 
 ## Connect with Me
