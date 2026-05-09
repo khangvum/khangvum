@@ -41,9 +41,6 @@ Welcome to My GitHub Profile!
   <img width="12"/>
   <img src="images/skills/python.png" height="40" alt="python logo"/>
   <img width="12"/>
-  <img src="images/skills/dotnetcore.png" height="40" alt="dotnetcore logo"/>
-  <img width="12"/>
-  <img src="images/skills/dotnet.png" height="40" alt="dotnet logo"/>
   <img width="12"/>
   <img src="images/skills/react.png" height="40" alt="react logo"/>
   <img width="12"/>
@@ -63,6 +60,12 @@ Welcome to My GitHub Profile!
   <img width="12"/>
   <img src="images/skills/opengl.png" height="40" alt="opengl logo"/>
 </div>
+
+## Frameworks & Libraries
+
+<img src="images/skills/dotnetcore.png" height="40" alt="dotnetcore logo"/>
+  <img width="12"/>
+  <img src="images/skills/dotnetframework.png" height="40" alt="dotnet framework logo"/>
 
 ### Databases
 
