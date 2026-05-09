@@ -31,110 +31,110 @@ Welcome to My GitHub Profile!
 ### Languages
 
 <div>
-  <img src="images/skills/cplusplus.png" height="40" alt="cplusplus logo"/>
+  <img src="images/skills/cplusplus.png" height="40" alt="CPlusPlus logo"/>
   <img width="12"/>
-  <img src="images/skills/c.png" height="40" alt="c logo"/>
+  <img src="images/skills/c.png" height="40" alt="C logo"/>
   <img width="12"/>
-  <img src="images/skills/csharp.png" height="40" alt="csharp logo"/>
+  <img src="images/skills/csharp.png" height="40" alt="CSharp logo"/>
   <img width="12"/>
-  <img src="images/skills/java.png" height="40" alt="java logo"/>
+  <img src="images/skills/java.png" height="40" alt="Java logo"/>
   <img width="12"/>
-  <img src="images/skills/python.png" height="40" alt="python logo"/>
+  <img src="images/skills/python.png" height="40" alt="Python logo"/>
   <img width="12"/>
-  <img src="images/skills/javascript.png" height="40" alt="javascript logo"/>
+  <img src="images/skills/javascript.png" height="40" alt="Javascript logo"/>
   <img width="12"/>
-  <img src="images/skills/html5.png" height="40" alt="html5 logo"/>
+  <img src="images/skills/html5.png" height="40" alt="HTML5 logo"/>
   <img width="12"/>
-  <img src="images/skills/css3.png" height="40" alt="css3 logo"/>
+  <img src="images/skills/css3.png" height="40" alt="CSS3 logo"/>
   <img width="12"/>
-  <img src="images/skills/swift.png" height="40" alt="swift logo"/>
+  <img src="images/skills/swift.png" height="40" alt="Swift logo"/>
   <img width="12"/>
-  <img src="images/skills/opengl.png" height="40" alt="opengl logo"/>
+  <img src="images/skills/opengl.png" height="40" alt="OpenGL logo"/>
 </div>
 
 ### Frameworks & Libraries
 
 <div>
-  <img src="images/skills/dotnetcore.png" height="40" alt="dotnetcore logo"/>
+  <img src="images/skills/dotnetcore.png" height="40" alt=".NET Core logo"/>
   <img width="12"/>
-  <img src="images/skills/dotnetframework.png" height="40" alt="dotnet framework logo"/>
+  <img src="images/skills/dotnetframework.png" height="40" alt=".NET Framework logo"/>
   <img width="12"/>
-  <img src="images/skills/react.png" height="40" alt="react logo"/>
+  <img src="images/skills/react.png" height="40" alt="React logo"/>
   <img width="12"/>
-  <img src="images/skills/vuejs.png" height="40" alt="vuejs logo"/>
+  <img src="images/skills/vuejs.png" height="40" alt="Vue.js logo"/>
   <img width="12"/>  
-  <img src="images/skills/jquery.png" height="40" alt="jquery logo"/>
+  <img src="images/skills/jquery.png" height="40" alt="jQuery logo"/>
   <img width="12"/> 
-  <img src="images/skills/bootstrap.png" height="40" alt="bootstrap logo"/>
+  <img src="images/skills/bootstrap.png" height="40" alt="Bootstrap logo"/>
+  <img width="12"/>
+  <img src="images/skills/selenium.png" height="40" alt="Selenium logo"/>
   <img width="12"/>
 </div>
 
 ### Databases
 
 <div>
-  <img src="images/skills/microsoftsqlserver.png" height="40" alt="microsoftsqlserver logo"/>
+  <img src="images/skills/microsoftsqlserver.png" height="40" alt="Microsoft SQL Server logo"/>
   <img width="12"/>
-  <img src="images/skills/sqlite.png" height="40" alt="sqlite logo"/>
+  <img src="images/skills/sqlite.png" height="40" alt="SQLite logo"/>
   <img width="12"/>
-  <img src="images/skills/mysql.png" height="40" alt="mysql logo"/>
+  <img src="images/skills/mysql.png" height="40" alt="MySQL logo"/>
   <img width="12"/>
-  <img src="images/skills/mongodb.png" height="40" alt="mongodb logo"/>
+  <img src="images/skills/mongodb.png" height="40" alt="MongoDB logo"/>
   <img width="12"/>
-  <img src="images/skills/firebase.png" height="40" alt="firebase logo"/>
+  <img src="images/skills/firebase.png" height="40" alt="Firebase logo"/>
 </div>
 
 ### Infrastructure
 
 <div>
-  <img src="images/skills/docker.png" height="40" alt="docker logo"/>
+  <img src="images/skills/docker.png" height="40" alt="Docker logo"/>
   <img width="12"/>
-  <img src="images/skills/ansible.png" height="40" alt="ansible logo"/>
+  <img src="images/skills/ansible.png" height="40" alt="Ansible logo"/>
   <img width="12"/>
-  <img src="images/skills/terraform.png" height="40" alt="terraform logo"/>
+  <img src="images/skills/terraform.png" height="40" alt="Terraform logo"/>
   <img width="12"/>
-  <img src="images/skills/azure.png" height="40" alt="azure logo"/>
+  <img src="images/skills/azure.png" height="40" alt="Azure logo"/>
   <img width="12"/>
-  <img src="images/skills/prometheus.png" height="40" alt="prometheus logo"/>
+  <img src="images/skills/prometheus.png" height="40" alt="Prometheus logo"/>
   <img width="12"/>
-  <img src="images/skills/grafana.png" height="40" alt="grafana logo"/>
+  <img src="images/skills/grafana.png" height="40" alt="Grafana logo"/>
   <img width="12"/>
-  <img src="images/skills/nginx.png" height="40" alt="nginx logo"/>
+  <img src="images/skills/nginx.png" height="40" alt="Nginx logo"/>
   <img width="12"/>
 </div>
 
 ### DevOps & Workflow
 
 <div>
-  <img src="images/skills/git.png" height="40" alt="git logo"/>
+  <img src="images/skills/git.png" height="40" alt="Git logo"/>
   <img width="12"/>
-  <img src="images/skills/bash.png" height="40" alt="bash logo"/>
+  <img src="images/skills/bash.png" height="40" alt="Bash logo"/>
   <img width="12"/>
-  <img src="images/skills/nix.png" height="40" alt="nix logo"/>
+  <img src="images/skills/nix.png" height="40" alt="Nix logo"/>
   <img width="12"/>
-  <img src="images/skills/nodejs.png" height="40" alt="nodejs logo"/>
+  <img src="images/skills/nodejs.png" height="40" alt="Node.js logo"/>
   <img width="12"/>
   <img src="images/skills/npm.png" height="40" alt="npm logo"/>
   <img width="12"/>
-  <img src="images/skills/nuget.png" height="40" alt="nuget logo"/>
+  <img src="images/skills/nuget.png" height="40" alt="NuGet logo"/>
   <img width="12"/>
-  <img src="images/skills/jupyter.png" height="40" alt="jupyter logo"/>
-  <img width="12"/>
-  <img src="images/skills/selenium.png" height="40" alt="selenium logo"/>
+  <img src="images/skills/jupyter.png" height="40" alt="Jupyter logo"/>
 </div>
 
 ## Connect with Me
 
 <div>
   <a href="https://www.linkedin.com/in/khangvum/" target="_blank">
-    <img src="images/connect-with-me/linkedin.png" height="40" alt="linkedin logo"/>
+    <img src="images/connect-with-me/linkedin.png" height="40" alt="Linkedin logo"/>
   </a>
   <img width="12"/>
   <a href="mailto:manhkhang0305@gmail.com" target="_blank">
-    <img src="images/connect-with-me/gmail.png" height="40" alt="gmail logo"/>
+    <img src="images/connect-with-me/gmail.png" height="40" alt="Gmail logo"/>
   </a>
   <img width="12"/>
   <a href="https://leetcode.com/u/khangvum/" target="_blank">
-    <img src="images/connect-with-me/leetcode.png" height="40" alt="gmail logo"/>
+    <img src="images/connect-with-me/leetcode.png" height="40" alt="LeetCode logo"/>
   </a>
 </div>
 
