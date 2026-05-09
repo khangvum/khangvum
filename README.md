@@ -54,11 +54,12 @@ Welcome to My GitHub Profile!
 
 ### Frameworks & Libraries
 
+<div>
   <img src="images/skills/dotnetcore.png" height="40" alt="dotnetcore logo"/>
   <img width="12"/>
   <img src="images/skills/dotnetframework.png" height="40" alt="dotnet framework logo"/>
   <img width="12"/>
-   <img src="images/skills/react.png" height="40" alt="react logo"/>
+  <img src="images/skills/react.png" height="40" alt="react logo"/>
   <img width="12"/>
   <img src="images/skills/vuejs.png" height="40" alt="vuejs logo"/>
   <img width="12"/>  
@@ -66,6 +67,7 @@ Welcome to My GitHub Profile!
   <img width="12"/> 
   <img src="images/skills/bootstrap.png" height="40" alt="bootstrap logo"/>
   <img width="12"/>
+</div>
 
 ### Databases
 
