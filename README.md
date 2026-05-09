@@ -41,15 +41,6 @@ Welcome to My GitHub Profile!
   <img width="12"/>
   <img src="images/skills/python.png" height="40" alt="python logo"/>
   <img width="12"/>
-  <img width="12"/>
-  <img src="images/skills/react.png" height="40" alt="react logo"/>
-  <img width="12"/>
-  <img src="images/skills/vuejs.png" height="40" alt="vuejs logo"/>
-  <img width="12"/>  
-  <img src="images/skills/jquery.png" height="40" alt="jquery logo"/>
-  <img width="12"/> 
-  <img src="images/skills/bootstrap.png" height="40" alt="bootstrap logo"/>
-  <img width="12"/>
   <img src="images/skills/javascript.png" height="40" alt="javascript logo"/>
   <img width="12"/>
   <img src="images/skills/html5.png" height="40" alt="html5 logo"/>
@@ -61,11 +52,20 @@ Welcome to My GitHub Profile!
   <img src="images/skills/opengl.png" height="40" alt="opengl logo"/>
 </div>
 
-## Frameworks & Libraries
+### Frameworks & Libraries
 
-<img src="images/skills/dotnetcore.png" height="40" alt="dotnetcore logo"/>
+  <img src="images/skills/dotnetcore.png" height="40" alt="dotnetcore logo"/>
   <img width="12"/>
   <img src="images/skills/dotnetframework.png" height="40" alt="dotnet framework logo"/>
+  <img width="12"/>
+   <img src="images/skills/react.png" height="40" alt="react logo"/>
+  <img width="12"/>
+  <img src="images/skills/vuejs.png" height="40" alt="vuejs logo"/>
+  <img width="12"/>  
+  <img src="images/skills/jquery.png" height="40" alt="jquery logo"/>
+  <img width="12"/> 
+  <img src="images/skills/bootstrap.png" height="40" alt="bootstrap logo"/>
+  <img width="12"/>
 
 ### Databases
 
