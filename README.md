@@ -87,6 +87,8 @@ Welcome to My GitHub Profile!
   <img width="12"/>
   <img src="images/skills/terraform.png" height="40" alt="terraform logo"/>
   <img width="12"/>
+  <img src="images/skills/azure.png" height="40" alt="azure logo"/>
+  <img width="12"/>
   <img src="images/skills/prometheus.png" height="40" alt="prometheus logo"/>
   <img width="12"/>
   <img src="images/skills/grafana.png" height="40" alt="grafana logo"/>
@@ -95,26 +97,24 @@ Welcome to My GitHub Profile!
   <img width="12"/>
 </div>
 
-### DevOps Tools
+### DevOps & Workflow
 
 <div>
   <img src="images/skills/git.png" height="40" alt="git logo"/>
-  <img width="12"/>
-  <img src="images/skills/azure.png" height="40" alt="azure logo"/>
   <img width="12"/>
   <img src="images/skills/bash.png" height="40" alt="bash logo"/>
   <img width="12"/>
   <img src="images/skills/nix.png" height="40" alt="nix logo"/>
   <img width="12"/>
-  <img src="images/skills/npm.png" height="40" alt="npm logo"/>
+  <img src="images/skills/nodejs.png" height="40" alt="nodejs logo"/>
   <img width="12"/>
-  <img src="images/skills/selenium.png" height="40" alt="selenium logo"/>
+  <img src="images/skills/npm.png" height="40" alt="npm logo"/>
   <img width="12"/>
   <img src="images/skills/nuget.png" height="40" alt="nuget logo"/>
   <img width="12"/>
-  <img src="images/skills/nodejs.png" height="40" alt="nodejs logo"/>
-  <img width="12"/>
   <img src="images/skills/jupyter.png" height="40" alt="jupyter logo"/>
+  <img width="12"/>
+  <img src="images/skills/selenium.png" height="40" alt="selenium logo"/>
 </div>
 
 ## Connect with Me
