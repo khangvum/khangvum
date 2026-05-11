@@ -70,6 +70,8 @@ Welcome to My GitHub Profile!
   <img src="images/skills/selenium.png" height="40" alt="Selenium logo"/>
   <img width="12"/>
   <img src="images/skills/reqnroll.png" height="40" alt="Reqnroll logo"/>
+  <img width="12"/>
+  <img src="images/skills/nunit.png" height="40" alt="NUnit logo"/>
 </div>
 
 ### Databases
