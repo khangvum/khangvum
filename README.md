@@ -25,7 +25,7 @@ Welcome to My GitHub Profile!
 **Information Systems IoT | Eramosa - A CIMA+ Company**
 
 - Engineered a standardized, security-hardened WSL environment (_e.g.,_ [khangvum/nixos-wsl](https://github.com/khangvum/nixos-wsl))
-- Implemented Infrastructure as Code (IaC) using Ansible and Terraform (_e.g.,_ [khangvum/homelab-ansible-config](https://github.com/khangvum/homelab-ansible-config))
+- Implemented Infrastructure as Code (IaC) using Ansible and Terraform (_e.g.,_ [khangvum/homelab-iac](https://github.com/khangvum/homelab-iac))
 - Orchestrated multi-tenant virtual infrastructure across VMware ESXi and Hyper-V
 
 ## Skills
