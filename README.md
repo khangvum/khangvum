@@ -12,19 +12,21 @@ Welcome to My GitHub Profile!
 
 **Automation Test Developer | CARFAX Canada**
 
-- Engineered automated test cases with Selenium WebDriver and NUnit/MSTest.
+- Engineered automated test cases with C#, .NET, Selenium WebDriver, and NUnit/MSTest (_e.g.,_ [khangvum/reqnroll-automation](https://github.com/khangvum/reqnroll-automation))
+- Automated 60+ API endpoints in Postman using JWT, Auth0, and web service tokens
+- Automated daily CI/CD pipeline schedules and report generation in Azure Pipelines for release readiness
 
 **NSC Support Analyst - Tier 1 | EMCO Corporation**
 
-- Managed enterprise infrastructure with Entra ID (Azure AD), Intune, and Exchange.
-- Automated Windows deployments using Autopilot and answer files (_e.g.,_ [khangvum/answer-files](https://github.com/khangvum/answer-files)).
-- Provided comprehensive Tier 1 support through the Ivanti ticketing system.
+- Managed enterprise infrastructure with Entra ID (Azure AD), Intune, and Exchange
+- Automated Windows deployments using Autopilot and answer files (_e.g.,_ [khangvum/answer-files](https://github.com/khangvum/answer-files))
+- Provided comprehensive Tier 1 support through the Ivanti ticketing system
 
 **Information Systems IoT | Eramosa - A CIMA+ Company**
 
-- Engineered a standardized, security-hardened WSL environment (_e.g.,_ [khangvum/nixos-wsl](https://github.com/khangvum/nixos-wsl)).
-- Implemented Infrastructure as Code (IaC) using Ansible and Terraform (_e.g.,_ [khangvum/homelab-ansible-config](https://github.com/khangvum/homelab-ansible-config)).
-- Orchestrated multi-tenant virtual infrastructure across VMware ESXi and Hyper-V.
+- Engineered a standardized, security-hardened WSL environment (_e.g.,_ [khangvum/nixos-wsl](https://github.com/khangvum/nixos-wsl))
+- Implemented Infrastructure as Code (IaC) using Ansible and Terraform (_e.g.,_ [khangvum/homelab-ansible-config](https://github.com/khangvum/homelab-ansible-config))
+- Orchestrated multi-tenant virtual infrastructure across VMware ESXi and Hyper-V
 
 ## Skills
 
@@ -147,38 +149,6 @@ Welcome to My GitHub Profile!
   <img src="https://github-readme-stats.vercel.app/api?username=khangvum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&cache_bust=1" height="150" alt="stats graph"  />
   <img width="12"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khangvum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&cache_bust=1" height="150" alt="languages graph"  />
-</div> -->
-
-<!-- ### Back-End
-
-<div>
-  <img src="images/skills/cplusplus.png" height="40" alt="cplusplus logo"/>
-  <img width="12"/>
-  <img src="images/skills/c.png" height="40" alt="c logo"/>
-  <img width="12"/>
-  <img src="images/skills/csharp.png" height="40" alt="csharp logo"/>
-  <img width="12"/>
-  <img src="images/skills/java.png" height="40" alt="java logo"/>
-  <img width="12"/>
-  <img src="images/skills/python.png" height="40" alt="python logo"/>
-  <img width="12"/>
-  <img src="images/skills/dotnetcore.png" height="40" alt="dotnetcore logo"/>
-</div>
-
-### Front-End
-
-<div>
-  <img src="images/skills/vuejs.png" height="40" alt="vuejs logo"/>
-  <img width="12"/>  
-  <img src="images/skills/jquery.png" height="40" alt="jquery logo"/>
-  <img width="12"/> 
-  <img src="images/skills/bootstrap.png" height="40" alt="bootstrap logo"/>
-  <img width="12"/>
-  <img src="images/skills/javascript.png" height="40" alt="javascript logo"/>
-  <img width="12"/>
-  <img src="images/skills/html5.png" height="40" alt="html5 logo"/>
-  <img width="12"/>
-  <img src="images/skills/css3.png" height="40" alt="css3 logo"/>
 </div> -->
 
 <!--
